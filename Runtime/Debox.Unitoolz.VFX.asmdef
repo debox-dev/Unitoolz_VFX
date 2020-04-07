@@ -1,0 +1,17 @@
+{
+    "name": "Debox.Unitoolz.Extensions",
+    "references": [
+        "RSG.Promises",
+        "Debox.Unitoolz.TWeener",
+        "NaughtyAttributes.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
